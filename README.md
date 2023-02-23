@@ -7,3 +7,5 @@ Te scan program checkes if the file and/or folder
 * If not, add folder/file to database and create Unique ID and save it's parent folder
 
 ![Scan Program](ScanProgram.JPG)
+
+![Show Directory folders and files](FolderElement.JPG)
