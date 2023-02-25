@@ -14,7 +14,7 @@ define('SYSERR',        'SYSERR');
 define('MYKEY',         'x');
 define("URL"            ,"localhost/project_x".$_SERVER["PHP_SELF"]);
 define("PDOdriver"      ,'mysql');
-define("PDOdatabase"    ,'zijnenworden');
+define("PDOdatabase"    ,'');
 define("PDOhost"        ,'127.0.0.1');
 define("PDOuser"        ,'root');
 define("PDOpass"        ,'');
